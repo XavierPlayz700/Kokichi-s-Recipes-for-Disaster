@@ -7,4 +7,4 @@ Serve Burnt Food
 Get Disgusted XD
 
 
-Ignore that HTML and CSS Files, they are still in progress :D
+Ignore those HTML and CSS Files, they are still in progress :D
